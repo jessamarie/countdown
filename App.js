@@ -4,7 +4,6 @@ import countdown from 'countdown'
 import FontAwesome from 'react-fontawesome'
 
 class App extends React.Component {
-
   constructor () {
     super()
     this.initDate()
